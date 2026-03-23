@@ -1,11 +1,11 @@
 on:
   pull_request:
     branches:
-      - dev
+      - devs
       - main
   push:
     branches:
-      - dev
+      - devs
       - main
   create:
   workflow_dispatch:
